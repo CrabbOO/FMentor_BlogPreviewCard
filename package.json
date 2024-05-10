@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
-  "source": "src/index.html",
+  "source": "index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
