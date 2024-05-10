@@ -1,0 +1,99 @@
+.attribution {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 11px;
+}
+
+.attribution a {
+  color: #3e52a3;
+  text-decoration: none;
+}
+
+body {
+  background-color: #f4d04e;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 1px);
+  display: flex;
+}
+
+.card {
+  background-color: #fff;
+  border: 1px solid #000;
+  border-radius: 20px;
+  width: 384px;
+  height: 522px;
+  padding: 24px;
+  box-shadow: 8px 8px #000;
+}
+
+.illustration {
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.learning {
+  background-color: #f4d04e;
+  border-radius: 4px;
+  justify-content: center;
+  align-items: center;
+  width: 82px;
+  height: 29px;
+  margin-bottom: 12px;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 21px;
+  display: flex;
+}
+
+.date {
+  margin-bottom: 12px;
+  font-size: 14px;
+}
+
+h1 {
+  font-weight: 800px;
+  margin-bottom: 12px;
+}
+
+h1:hover {
+  cursor: pointer;
+  color: #f4d04e;
+}
+
+.text {
+  color: gray;
+  margin-bottom: 24px;
+  line-height: 1.5em;
+}
+
+.author {
+  align-items: center;
+  display: flex;
+}
+
+.author p {
+  font-weight: bold;
+}
+
+.avatar-img {
+  width: 32px;
+  height: 32px;
+  margin-right: 12px;
+}
+
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: Figtree, sans-serif;
+}
+
+p {
+  font-size: 16px;
+}
+/*# sourceMappingURL=index.b10d73a7.css.map */

@@ -1,0 +1,13 @@
+.author {
+  display: flex;
+  align-items: center;
+  p {
+    font-weight: bold;
+  }
+}
+
+.avatar-img {
+  height: 32px;
+  width: 32px;
+  margin-right: 12px;
+}

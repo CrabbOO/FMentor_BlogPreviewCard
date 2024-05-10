@@ -1,0 +1,36 @@
+@use "../utils/variables" as *;
+
+.learning {
+  background-color: $yellow;
+  width: 82px;
+  height: 29px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 21px;
+  margin-bottom: 12px;
+}
+
+.date {
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+
+h1 {
+  margin-bottom: 12px;
+  font-weight: 800px;
+
+  &:hover {
+    cursor: pointer;
+    color: $yellow;
+  }
+}
+
+.text {
+  color: $grey;
+  line-height: 1.5em;
+  margin-bottom: 24px;
+}

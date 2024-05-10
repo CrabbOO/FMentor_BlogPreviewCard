@@ -1,0 +1,14 @@
+// component base
+@use "./components/attribution";
+@use "./components/body";
+@use "./components/card";
+@use "./components/illustration";
+@use "./components/main-text";
+@use "./components/author";
+
+// base settings
+@use "./base/reset";
+@use "./base/typography";
+
+// utils
+@use "./utils/variables";
